@@ -15,6 +15,4 @@ E aliás, eu estou me preparando pra depois que eu aprender C, iniciar em Kotlin
 
 E eu não sou um programador experiente, sou um adolescente de 14 anos que entrou no GitHub pra compartilhar código e é um autista com Síndrome de Asperger.
 
-E é isso, vocês vão ver o que eu prometi e o meu progresso como programador no GitHub e também tem um canal no YouTube, aonde eu vou compartilhar meus conhecimentos em C e compartilhar como programar no Termux.
-
-E eu estou aprendendo tudo isso **sozinho**, pesquisando na Internet como programar e corrigindo erros.
+E é isso, vocês vão ver o que eu prometi e o meu progresso como programador no GitHub e eu estou aprendendo tudo isso **sozinho**, pesquisando na Internet como programar e corrigindo erros.
